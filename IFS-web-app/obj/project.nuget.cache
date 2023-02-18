@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CBdErE+X4Tbf0tYR+u/QbBVjUODINUQY3xh3lM3v+s72XLaUcjVYK7Y34nh9svVrUEMI0T+vWYjBltgpcZH/nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mr.Semicolon.000\\Desktop\\IFS-web-app\\IFS-web-app\\IFS-web-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr.Semicolon.000\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
